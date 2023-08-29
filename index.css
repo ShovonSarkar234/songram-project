@@ -1,0 +1,85 @@
+body {
+    max-width: 1200px;
+    margin: auto;
+}
+
+.heading {
+    margin-top: 2rem;
+    font-weight: bold;
+}
+
+.heading2 h4{
+    text-align: right;
+}
+
+.heading2 span {
+    margin-right: 188px;
+}
+
+.main-heading h2 {
+    text-align: center;
+    text-decoration: underline;
+    margin-top: 3rem;
+}
+
+.input-filed input {
+    width: 1000px;
+    margin-left: 10px;
+}
+
+.input-filed span {
+    font-size: 20px;
+}
+
+.input-filed2 input {
+    width: 400px;
+    margin-top: 10px;
+    margin-left: 5px;
+}
+
+.input-filed3 input {
+    width: 400px;
+    margin-top: 10px;
+    margin-left: 5px;
+}
+
+.input-filed4 input {
+    width: 1000px;
+   margin-top: 5px;
+   margin-left: 5px;
+}
+
+.first input{
+    margin-left: 12px;
+}
+
+.form-input {
+    margin-left: 100px;
+}
+
+.form-input input {
+    width: 900px;
+    margin-top: 5px;
+}
+
+.input-text {
+    margin-left: 90px;
+    margin-top: 10px;
+}
+
+.input-text span{
+    margin-left: 55px;
+    font-weight: bold;
+} 
+
+
+.input-text .spn2{
+    display: inline-block;
+    margin-left: 400px;
+    font-weight: bold;
+}
+
+.last-paragrap p {
+    margin-top: 30px;
+    font-size: 20px;
+}
